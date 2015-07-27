@@ -26,5 +26,16 @@ class Especie
 	const CEF_LETRA_DE_CAMBIO = 6;
 	const CEF_OUTROS = 9;
 
+	const SICREDI_DUPLICATA_MERCANTIL    = 'A';
+	const SICREDI_DUPLICATA_RURAL        = 'B';
+	const SICREDI_NOTA_PROMISSORIA       = 'C';
+	const SICREDI_NOTA_PROMISSORIA_RURAL = 'D';
+	const SICREDI_NOTA_DE_SEGUROS        = 'E';
+	const SICREDI_RECIBO                 = 'G';
+	const SICREDI_LETRA_DE_CAMBIO        = 'H';
+	const SICREDI_NOTA_DE_DEBITO         = 'I';
+	const SICREDI_DUPLICATA_DE_SERVICO   = 'J';
+	const SICREDI_OUTROS                 = 'K';
+
 	const CNAB240_OUTROS = 99; 
 }
